@@ -7,10 +7,6 @@
 		<string>pas</string>
 		<string>p</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>\b(?i:(function|package|procedure|try|type))\b</string>
-	<key>foldingStopMarker</key>
-	<string>\b(?i:(end))\b</string>
 	<key>keyEquivalent</key>
 	<string>^~P</string>
 	<key>name</key>
