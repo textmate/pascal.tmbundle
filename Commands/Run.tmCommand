@@ -49,6 +49,8 @@ fi
 	</array>
 	<key>scope</key>
 	<string>source.pascal</string>
+	<key>semanticClass</key>
+	<string>process.external.run.pascal</string>
 	<key>uuid</key>
 	<string>8E597879-2721-424B-B4F5-974259B67697</string>
 	<key>version</key>
